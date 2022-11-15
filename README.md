@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario343214420&layout=compact&theme=dark)
 
 - 👋 Hi, I’m @Mario343214420
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in JavaScript & Python, I'm very concerned about WebGL, If you do, feel free to contact me to discuss the technology.
+- 🌱 I’m currently learning Python and Fpv
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 343214420@qq.com
 
 <!---
 Mario343214420/Mario343214420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
